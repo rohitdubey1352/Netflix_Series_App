@@ -16,7 +16,8 @@ const Sdata = [
         btn: "Watch Now",
     },
     {
-        img: "https://eztv.re/ezimg/thumbs/1899-471831.jpg",
+        // img: "https://eztv.re/ezimg/thumbs/1899-471831.jpg",
+        img: "https://img.aullidos.com/imagenes/varios/poster-1899-netflix.jpg",
         title: "Thriller",
         name: "1899",
         link: "https://www.netflix.com/in/title/80214497",
